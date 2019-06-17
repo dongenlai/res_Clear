@@ -1,0 +1,37 @@
+{
+  "des": "某个文件行数过滤 !!!索引必须是阿拉伯数字 0 ～ n",
+  "ignoreLine":{
+     "/Users/dongenlai/Documents/xLProject/xlClient.6/project/src/app/xlhall/uihall_pack.lua": [
+        [1205, 1275],
+        [1382, 1442]
+      ],
+
+      "/Users/dongenlai/Documents/xLProject/xlClient.6/project/src/app/views/LoginScene.lua": [
+        [363, 371],
+        [375, 394]
+      ]
+  },
+
+  "des": "特殊字符过滤  !!!为字符串",
+  "ignoreSymbol":[
+      ",", "|", "/", "*t", "&", "]", "[", "%s", ".png", "...", "True", ".", "<", ">", "+", "。", "】", "\\", "\\u", " +", "\\n\\n",
+      "-", "*", "&lt" ,"&gt" , "!", "_" , "#", "<#", "><" , ":", ";" , "X", "nil", "***", "~", "【", "、", "\\n", "[]", "%[",
+      "\\\"", "(", ")" , "w+" ,"table", "return", "rb", "@", "%a", "%D", "i", "r", "b", "m", "u", "\n", ".mp3", ".luac", ".lua",
+      "U", "D", "P", "%F", "function" ,"()V" ,"()Z" ,"://?" ,"(I)Z", "(I)V", "null" ,"w+", "wb", ".csb", ".json", ".atlas", "},{",
+      "rb", "=", "%d", "p", "d", "i", "*a", "}", "{", ");", "," ,"(\"", "()I" ,"string", "\\u", " )", "VA_GRAPH_CONFIG", "|%s|",
+      "(Z)V", "true", "false", "?", "(Z)V", "0x", "()Ljava/lang/String", "(Ljava/lang/String;)Z", "RESOURCE_FILENAME", "VA_PROP_RENEW_IN_ORNAMENT",
+      "(Ljava/lang/String;Ljava/lang/String;)V", "(Ljava/lang/String;Ljava/lang/String;)Z", "(Ljava/lang/String;)V", "VA_PROP_USE_IN_ORNAMENT",
+      "(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V", "{}", "(IIII)V", "(Ljava/lang/String;)V",
+      "(II)V", "iPhone 4", "iPhone 4S", "iPhone 5", "iPhone 5 (GSM+CDMA)", "iPhone 5c (GSM)", "iPhone 5c (GSM+CDMA)", "_xlvalueguildCtl_Guild",
+      "iPod Touch (1 Gen)", "iPod Touch (2 Gen)", "iPod Touch (3 Gen)", "iPod Touch (4 Gen)", "iPod Touch (5 Gen)", "iPod Touch (6 Gen)",
+      "@v", "%" ,"(.)" , "%Y%m%d", "iphone8", "iphoneX", "_HSPROPS" , "VA_TASK_SETLISTVIEW" , "VA_TASK_INFO", "VA_TASK_VIDEOAWARDCALLBACK",
+      "VA_TASK_TASKAWARDCALLBACK", "VA_TASK_VIDEOINFO", "project.manifest", "CLIENTLOG_CONF","3c6e0b8a9c15224a8228b9a98ca1531d" ,"VIDEO_ONLINE_PLAY_COMP",
+      "VIDEO_OFFLINE_PLAY_COMP", "VIDEO_OFFLINE_PLAY_COMP", "VIDEO_OFFINE_LOAD_FAIL", "VIDEO_LOADING", "VIDEO_NOT_SUPPORT", "CHARM_AWARDREDPACKET", "CHARM_AWARDREDPACKET_0",
+      "CHARM_DISABLEHONGDIAN", "REMOVE_NEWPROPHONGDIAN_0", "REMOVE_NEWPROPHONGDIAN_1", "APP_ENTER_BACKGROUND_EVENT", "APP_ENTER_FOREGROUND_EVENT", "VIDEO_ONLINE_LOAD_FAIL" ,
+      "X-QP-AppId", "X-QP-Timestamp", "X-QP-Gid", "X-QP-Signature", "X-QP-Token", "XL_TASK_TIPS_CACHE", "1989e2ed682a7c3d", "_SHOPBUYPROS", "AD_LOAD_MUL", "&type=xianlai&origin=TG45926",
+      "X-QP-Nonce", "X-QP-ClientType", "X-QP-UserId", "%s/%s", "%s:%s", "xl0d31df13fbe91e4b", "xl80556d5e060b6087", "REMOVE_HSPROPHONGDIAN_1", "SHOW_GETREWARD_ANI", "df3d804239dfd448",
+      "REMOVE_HSPROPHONGDIAN_2", "VA_VIP_CHARGE_SUC_M", "GIFT_AWARDREDPACKET_1", "GIFT_AWARDREDPACKET_0", "REMOVE_VIP_FireEffect", "isRelease",
+      "088ad376b6514ed0a191067308c284fr"
+  ]
+
+}

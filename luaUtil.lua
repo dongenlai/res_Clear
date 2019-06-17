@@ -2,8 +2,8 @@
 local UtilRes = UtilRes or {}
 
 --[[
-    lua 路径匹配接口增值
-    返回值 为print subprocess监听不同于return
+    lua 路径匹配接口增值道具代码直接拿过来的
+    返回值为print subprocess监听不同于return
 ]]
 
 function UtilRes.propani(fname, prePath)
