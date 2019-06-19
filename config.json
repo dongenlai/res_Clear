@@ -6,25 +6,24 @@
         "src/app/xlhall/",
         "res/",
         "res/sd/", 
-        "res/res_xlhall/", 
-        "res/csbs/"
+        "res/res_xlhall/"
     ],
 
     "PROJECT_PATH": [
         {
             "des": "项目根路径", 
-            "projectRootPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/"
+            "projectRootPath": "/Users/dongenlai/Desktop/fujian"
         }, 
         {
             "des": "项目cocostudio路径", 
-            "cocostudioPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/cocosstudio/cocosstudio/"
+            "cocostudioPath": "/Users/dongenlai/Desktop/fujian/cocosstudio/"
         }, 
         {
-            "resPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/res/", 
+            "resPath": "/Users/dongenlai/Desktop/fujian/res/",
             "des": "项目res路径"
         }, 
         {
-            "srcPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/src/", 
+            "srcPath": "/Users/dongenlai/Desktop/fujian/src/",
             "des": "项目src路径"
         }
     ],
