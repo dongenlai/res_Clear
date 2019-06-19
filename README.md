@@ -359,19 +359,19 @@ config.json
 
 4.`TEMP_PATH:`    临时路径配置细看res描述字段
 
-5.`IGNORE_PATHS:` 忽略查找到文件夹
+5.`IGNORE_PATHS:` 忽略查找文件夹
 
-6.`ISDEBUG:` 如果true只塞选不做真是删减操作
+6.`ISDEBUG:` 如果true只筛选但不做真实删减操作
 
 7.`version:` 版本号
 
-8.`STEMP:` GUI启动和命令行启动执行到步骤可自定义选择执行某步
+8.`STEMP:` GUI启动和命令行启动执行用到可自定义选择执行某几步骤
 
 9.`IGNORE_FILES:` 忽略查找文件
 
-9.`CSDROOTDATAS_PNG:` cocostudio中的资源查找节点
+10.`CSDROOTDATAS_PNG:` cocostudio中的资源查找节点
 
-9.`SERCHCONDITION_SUFFIX:` 对应后缀查找文件使用记录，比如无用的和项目中实际使用到的png会记录到record_png.json中
+11.`SERCHCONDITION_SUFFIX:` 对应后缀查找文件记录，比如无用的和项目中实际使用到的png会记录到record_png.json中
 
 
 # Commands Required
