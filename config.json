@@ -12,18 +12,18 @@
     "PROJECT_PATH": [
         {
             "des": "项目根路径", 
-            "projectRootPath": "/Users/dongenlai/Desktop/fujian"
+            "projectRootPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/"
         }, 
         {
             "des": "项目cocostudio路径", 
-            "cocostudioPath": "/Users/dongenlai/Desktop/fujian/cocosstudio/"
+            "cocostudioPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/cocosstudio/cocosstudio/"
         }, 
         {
-            "resPath": "/Users/dongenlai/Desktop/fujian/res/",
+            "resPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/res/",
             "des": "项目res路径"
         }, 
         {
-            "srcPath": "/Users/dongenlai/Desktop/fujian/src/",
+            "srcPath": "/Users/dongenlai/Documents/xLProject/xlClient.6/project/src/",
             "des": "项目src路径"
         }
     ],
@@ -62,17 +62,22 @@
 
     "IGNORE_PATHS": [
         "src/cocos/",
+        "src/packages/",
+        "src/app/amodule/",
+        "src/app/club/",
+
         "res/sfx/",
         "res/fonts/",
         "res/gzh/",
         "res/Default/",
-        "src/packages/",
-        "res/amodule/xlvalueadd/hallprop/propani_/",
-        "res/amodule/xlvalueadd/hallprop/uiani_/",
-        "res/channel/"
+        "res/channel/",
+
+        "res/amodule/",
+        "res/res_xlhall/",
+        "res/club/"
     ],
 
-    "ISDEBUG": true,
+    "ISDEBUG": false,
     "version": 1.0, 
     "STEMP": {
         "des": "脚本执行的步骤1～8 @title:匿名函数格式化字符串, @step:步骤索引, @btns:选项卡, \n @ExecutionFunction:执行函数作用域为调用对象, @callBack:回调函数", 
@@ -278,7 +283,6 @@
         "src/app/views/friend/DirtyWord.lua",
         "src/app/club/club/event/GuildEvent.lua",
         "src/app/xlhall/inviewcfgconfig.lua",
-
 
         "src/app/amodule/xlvalueadd/utils/VACacheMgr.lua",
         "src/app/amodule/xlvalueadd/utils/VALogUtils.lua",
